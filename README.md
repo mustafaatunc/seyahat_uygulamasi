@@ -1,7 +1,7 @@
 # TUGA
 
-Seyahat Planlaması üzerine tasarlanmış,içerisinde birçok materyali barındıran,turistik yerleri ve tatil avantajlarını da barındıran,halen geliştirilmekte olan mobil seyahat uygulamasıdır.
-## Getting Started
+Seyahat Planlaması üzerine tasarlanmış,içerisinde birçok materyali bulunduran,turistik yerleri ve tatil avantajlarını da barındıran,halen geliştirilmekte olan mobil seyahat uygulamasıdır.
+## Uygulamaya ait bazı Ekran Görüntüleri:
 
 This project is a starting point for a Flutter application.
 
