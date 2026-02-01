@@ -27,22 +27,17 @@ Modern **Flutter** mimarisi ile geliştirilmiş olup, **Google Gemini AI** enteg
 ### 2. Planlama (AI ve Manuel)
 | Planlarım (Boş) | Manuel Plan Ekleme | AI Seyahat Asistanı |
 |:---:|:---:|:---:|
-| ![Planner Empty](https://github.com/user-attachments/assets/aad7716a-b28f-4302-bf08-133b507d4b4b) | ![Planner Manual](https://github.com/user-attachments/assets/a2f188d0-9927-4ee0-9552-dd45e11135c5) | ![AI Planner](https://github.com/user-attachments/assets/57605017-41e1-4635-89ad-f5db3da01291)
-) |
+| ![Planner Empty](https://github.com/user-attachments/assets/aad7716a-b28f-4302-bf08-133b507d4b4b) | ![Planner Manual](https://github.com/user-attachments/assets/a2f188d0-9927-4ee0-9552-dd45e11135c5) | ![AI Planner](https://github.com/user-attachments/assets/57605017-41e1-4635-89ad-f5db3da01291) |
 
 ### 3. Detaylar ve Araçlar
 | Gezi Detayı & Rota | Seyahat Araçları |
 |:---:|:---:|
-| ![Trip Detail](https://github.com/user-attachments/assets/19649317-f7d8-46ac-be11-36f1ce0200a1)   | ![Tools](https://github.com/user-attachments/assets/605e068d-08b0-46ed-b474-150a69e79494)
-) 
-) |
+| ![Trip Detail](https://github.com/user-attachments/assets/19649317-f7d8-46ac-be11-36f1ce0200a1)   | ![Tools](https://github.com/user-attachments/assets/605e068d-08b0-46ed-b474-150a69e79494) |
 
 ### 4. Profil ve Favoriler
 | Profil & Ayarlar | Favorilerim |
 |:---:|:---:|
-| ![Profile](https://github.com/user-attachments/assets/851cdd31-73c5-48da-8e95-6e76faeb1867)       | ![Favorites](https://github.com/user-attachments/assets/4a19fc61-87cc-47c1-b58c-9e4e8ba9e458)
-) 
-) |
+| ![Profile](https://github.com/user-attachments/assets/851cdd31-73c5-48da-8e95-6e76faeb1867)       | ![Favorites](https://github.com/user-attachments/assets/4a19fc61-87cc-47c1-b58c-9e4e8ba9e458)  |
 
 ---
 
@@ -80,4 +75,4 @@ Bu projeyi yerel ortamınızda çalıştırmak için:
 ## 📞 İletişim
 
 Geliştirici: **Mustafa Tunç**
-[E-posta](mailto:mustafatunc423@gmail.com)
+📧 **E-posta:** [mustafatunc423@gmail.com](mailto:mustafatunc423@gmail.com)
