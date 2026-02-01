@@ -76,4 +76,4 @@ Bu projeyi yerel ortamınızda çalıştırmak için:
 
 Geliştirici: **Mustafa Tunç** 
 
-📧 **E-posta:** [mustafatunc423@gmail.com](mailto:mustafatunc423@gmail.com)
+📧 **E-posta:** [mstftnc421@gmail.com](mailto:mstftnc421@gmail.com)
